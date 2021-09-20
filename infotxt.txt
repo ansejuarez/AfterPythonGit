@@ -1,0 +1,25 @@
+1- Crear Repostitorio en Github
+2- Crear el repo en nuestro proyecto
+    (git ini)>>>>>>> Crea un repo loccal en nuestra proyecto
+3- Conectar nuestro repo local con Github
+git remote add origin https://github.com/ansejuarez/AfterPythonGit.git
+copiar la primer linea donde dice or push
+
+Despues dle paso 3 nuestro repo local y nuestro repo en github ya se conectaron, pero no hay archivos
+
+
+4- Chequear el estado de los archivos
+git status >>>>>>>> para saber el estado de los archivos
+
+5- Añadir los archivos a Github
+ - git add . (el punto añade todo lo que haya en el proytecto)
+
+ 6 - cheeuar estado de los archivos
+
+ 7- Deajr un comit de lo que hice
+  - git comit -m "El comiite que quiera poner"
+
+  8-hacer el push,(subir todos los archicos a la nube)
+  - git push -u origin master
+  (origin es la rama que trabaja github)
+  (master es la rama que viene por defecto en vscode)
