@@ -23,3 +23,5 @@ git status >>>>>>>> para saber el estado de los archivos
   - git push -u origin master
   (origin es la rama que trabaja github)
   (master es la rama que viene por defecto en vscode)
+
+  9 - Se subio el archivo a github
